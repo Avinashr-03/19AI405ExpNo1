@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: BALA M </h3>
-<h3>Register Number/Staff Id: 212224060036</h3>
+<h3>Name: Avinash R </h3>
+<h3>Register Number/Staff Id: 212224060033</h3>
 
 
 <h3>AIM:</h3>
